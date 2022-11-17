@@ -1,0 +1,1 @@
+SELECT * FROM turma WHERE ID=1;

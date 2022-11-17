@@ -1,0 +1,1 @@
+SELECT * FROM professor WHERE ID=1;
